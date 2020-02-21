@@ -11,14 +11,16 @@ There is some data validation contained in the Console class.
 This was a quick demo so there is no exception handling built in.
 
 CHALLENGE:
-The challenge for me was to randomize the 20 questions and as each on randomized  questions was added tothe collection I had to ensure it was unique and had not already been picked. So each set of 5 questions should be unique. I made a collection of 20 so that I could expand the number of questions later. This random pick/unique to the set was a new thing I hadn't done before. my method is for sure not the most efficient, but it did work!
+The challenge for me was to randomize the 20 questions and as each one was randomized and added to the collection, I had to ensure it was unique and had not already been picked. So each set of 5 questions should be unique. I made a collection of 20 so that I could expand the number of questions later. This random pick/unique to the set was a new thing I hadn't done before. My method is for sure not the most efficient, but it did work!
 
 Next Steps:
-Clean and optimize the method I use to insert random questions into collection and then check for uniqueness
+Clean and optimize the method I use to insert random questions into collection and then check for uniqueness. I suspect a binary search or other search algorithim would be much better.
 Have exception handling and error catching.
 make question pool reside in a back-end MySql db.
 
 Next Steps II:
 Make a SPA web app
 Use angular to make SPA. Pages that will CRUD question pool.
+Make it pretty.
+
 
