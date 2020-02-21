@@ -220,7 +220,6 @@ public class SeinfeldQuizApp {
 					  "**********************************\n"+
 					  "1 -   Take Quiz \n" +
 					  "2 -   See All Questions & Answers \n" +
-					  "3 -   View Last Score \n" +
 					  "99 -  Exit App\n" +
 					  "Enter your Menu Number Selection: ";
 		return menu;
