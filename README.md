@@ -18,6 +18,7 @@ Clean and optimize the method I use to insert random questions into collection a
 Have exception handling and error catching.
 make question pool reside in a back-end MySql db.
 
+
 Next Steps II:
 Make a SPA web app
 Use angular to make SPA. Pages that will CRUD question pool.
