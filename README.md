@@ -1,4 +1,4 @@
-# SeinfeldTriviaQuiz
+#SeinfeldTriviaQuiz
  Java Console App - Seinfeld Trivia Quiz 
 
 This is a simple Java Console App I made for an Interviewer who likes Seinfeld.
